@@ -16,8 +16,8 @@ python3 -m venv venv
 ```
 Or on Windows cmd
 ``` command
-    $ py -3 -m venv venv
-    $ venv\Scripts\activate.bat
+py -3 -m venv venv
+venv\Scripts\activate.bat
 ```
 4. Install libraries
 ``` command
