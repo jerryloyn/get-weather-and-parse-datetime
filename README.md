@@ -4,7 +4,7 @@ There are two py files for
 - get weather info (current temperature or next 3 days forecast) from HKO
 - parse the datetime string into a ISO8601 formatted date
 ## Installation
-1. clone the repository
+1. Clone the repository
 2. Go to repo folder
 ``` command
 cd weather-time-conversion
